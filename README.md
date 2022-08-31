@@ -4,11 +4,14 @@ Quando eu entrei no mercado de crypto só se falava sobre um problema:
 escalabilidade.
 e muito se falava sobre escalabilidade
 mas me deparei com outro problema,
-  medo perder dinheiro, 
+
+  medo perder dinheiro,
+  
   contrato quebrado, 
-o que me fez ficar com o pé atrás em relação a investir nesse mundo, 
-o tempo todo aparecia noticias de hack e bug em contrato, 
-  “X quantidade de dinheiro roubado por motivo Y” e isso segue até hoje, 
+  
+o que me fez ficar com o pé atrás em relação a investir nesse mundo,
+o tempo todo aparecia noticias de hack e bug em contrato,
+“X quantidade de dinheiro roubado por motivo Y” e isso segue até hoje, 
 entre janeiro de 2021 e julho de 2022, foram roubados mais de 4bilhões de dolares em crypto advindos de problemas com smart contracts e afins. 
   * problema 1 (motivo, quantia)
 o que, quanto, como

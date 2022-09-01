@@ -1,5 +1,6 @@
 Task Members: Kingu, Sett, Etrius
 Segurança do Kindelia
+
 Quando eu entrei no mercado de crypto só se falava sobre um problema:
 escalabilidade.
 e muito se falava sobre escalabilidade

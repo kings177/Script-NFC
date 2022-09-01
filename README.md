@@ -18,7 +18,9 @@ entre janeiro de 2021 e julho de 2022, foram roubados mais de 4bilhões de dolar
 o que, quanto, como
     * problema 1 Vulnerabilidade
       * devops199
+      
 ![image](https://user-images.githubusercontent.com/53550620/187800494-1fc3bb47-8971-4d6b-8f2d-674e76a690c1.png)
+
 
 mas...
   * problema 2 (motivo, quantia)

@@ -1,4 +1,4 @@
-Segurança do Kindelia
+# Segurança do Kindelia
 
 Quando eu entrei no mercado de crypto só se falava sobre um problema:
 escalabilidade.
@@ -42,7 +42,8 @@ e por que isso não é feito?
 fazer formal proofs nas blockchains atuais é muito caro e inviável
 se para provar formalmente um hello world custa 2000 dolares, o custo de uma verificação formal de um codigo de 1400 linhas, como a bridge da qubrit, teria um preço extremamente inviável, que chama diversas funções que não são provadas. 
 mas não para a Kindelia
-Kindelia
+
+# Kindelia
 até o dia de hoje, ser roubado era inevitável, com a Kindelia, isso se tornou uma opção.
 e então eu decidi criar a Kindelia.
 

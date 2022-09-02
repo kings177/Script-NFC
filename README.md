@@ -1,21 +1,18 @@
-Task Members: Kingu, Sett, Etrius
 Segurança do Kindelia
 
 Quando eu entrei no mercado de crypto só se falava sobre um problema:
 escalabilidade.
 e muito se falava sobre escalabilidade
 mas me deparei com outro problema,
+medo perder dinheiro,
+contrato quebrado, 
 
-  medo perder dinheiro,
-  
-  contrato quebrado, 
-  
 o que me fez ficar com o pé atrás em relação a investir nesse mundo,
 o tempo todo aparecia noticias de hack e bug em contrato,
 “X quantidade de dinheiro roubado por motivo Y” e isso segue até hoje, 
 entre janeiro de 2021 e julho de 2022, foram roubados mais de 4bilhões de dolares em crypto advindos de problemas com smart contracts e afins. 
   * problema 1 (motivo, quantia)
-o que, quanto, como
+  o que, quanto, como
     * problema 1 Vulnerabilidade
       * devops199
       
@@ -24,13 +21,12 @@ o que, quanto, como
 
 mas...
   * problema 2 (motivo, quantia)
-o que, quanto, como
+  o que, quanto, como
     * problema 2 Humanproof
-      * polynetwork cross-chain contract exploit
-https://rekt.news/polynetwork-rekt/
-o que também, não .....
+      * [polynetwork cross-chain contract exploit](https://rekt.news/polynetwork-rekt/)
+  o que também, não .....
   * problema 3 (motivo, quantia)
-o que, quanto, como
+  o que, quanto, como
     * problema 3 Bug
       * Qubit audited code
       * The DAO
@@ -43,7 +39,7 @@ Provas formais/Provas matemamaticas
 * Exemplo simples de prova formal
 * 
 e por que isso não é feito?
- fazer formal proofs nas blockchains atuais é muito caro e inviável
+fazer formal proofs nas blockchains atuais é muito caro e inviável
 se para provar formalmente um hello world custa 2000 dolares, o custo de uma verificação formal de um codigo de 1400 linhas, como a bridge da qubrit, teria um preço extremamente inviável, que chama diversas funções que não são provadas. 
 mas não para a Kindelia
 Kindelia

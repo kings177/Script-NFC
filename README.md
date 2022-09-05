@@ -24,7 +24,9 @@ Nesse exploit, foram roubados mais de 611 milhões de dólares em diversas cript
 
 
 No entanto, não podemos nos esquecer também, do bug lógico na Qubit Finance.
+
 // TO-DO
+
   * problema 3 (motivo, quantia)
   o que, quanto, como
     * problema 3 Bug

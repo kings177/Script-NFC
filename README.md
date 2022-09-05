@@ -1,4 +1,5 @@
 Segurança do Kindelia
+
 O mercado de cripto encara diversos problemas atualmente como escalabilidade, eficiência e principalmente segurança. 
     Por que? Contratos quebrados, códigos mal-feitos, falta eficiência das próprias redes para constituir segurança aos seus
 usuários e isso no traz um medo de investir com esses diversos problemas de segurança e eficiência para construir coisas

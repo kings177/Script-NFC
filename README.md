@@ -1,9 +1,10 @@
 Segurança do Kindelia
 O mercado de cripto encara diversos problemas atualmente como escalabilidade, eficiência e principalmente segurança. 
-    Por que? Contratos quebrados, códigos mal-feitos, falta eficiência das próprias redes para constituir segurança aos seus 
-usuários e isso no traz um medo de investir com esses diversos problemas de segurança e eficiência para construir coisas 
+    Por que? Contratos quebrados, códigos mal-feitos, falta eficiência das próprias redes para constituir segurança aos seus
+usuários e isso no traz um medo de investir com esses diversos problemas de segurança e eficiência para construir coisas
 maravilhosas. Entre janeiro de 2021 e julho de 2022, foram roubados mais de 4 bilhões de doláres em cripto advindo de problemas 
 de smart contracts e afins. Isso é sério.
+
 Alguns exemplos como:
   * No dia 06 de Novembro de 2017, um usuário do Github chamado de "devops199" descobriu um bug na rede Ethereum, que fazia com que ele pudesse "destruir" contratos multisig que não era de propriedade dele, nesse "acidente" (assim como afirmado por ele), foram perdido mais de 300 milhões de dolares em ETH.
     * Problema 1, vulnerabilidade.

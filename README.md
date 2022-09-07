@@ -6,9 +6,10 @@ Quase todo dia, me aparecia noticias de hacks e bugs em contrato do tipo:
 “Contrato X sofreu um exploit e perdeu N criptomoedas”
 e isso continua seguindo.
 
+Nos anos de 2021 até julho de 2022, foram roubados mais de 4 bilhões de dolares em crypto, advindos de problemas com smart contracts e afins.
+
 ### Função Kill
-Nos anos de 2021 até julho de 2022, foram roubados mais de 4 bilhões de dolares em crypto, advindos de problemas com smart contracts e afins. 
-  * No dia 06 de novembro de 2017, um usuário do github chamado de "devops199" descobriu um bug na rede ethereum, que fazia com que ele pudesse "destruir" contratos multisig que não era de propriedade dele. nesse "acidente" (assim como afirmado por ele), foram perdido mais de 300 milhões de dolares em ETH
+No dia 06 de novembro de 2017, um usuário do github chamado de "devops199" descobriu um bug na rede ethereum, que fazia com que ele pudesse "destruir" contratos multisig que não era de propriedade dele. nesse "acidente" (assim como afirmado por ele), foram perdido mais de 300 milhões de dolares em ETH
 
 
 ### Poly Network exploit
@@ -33,8 +34,9 @@ E esses são só 3 dos variados roubos que acontecem quase toda semana. De acord
 Provas formais/Provas matemáticas
 São demonstrações de que, dados certos axiomas, algum enunciado de interesse é necessariamente verdadeiro. Utiliza como base premissas intrínsecas a um modelo conceitual e um silogismo que, a partir de uma série de operações, chega ao resultado. 
 
-* deixar claro o porque isso é hack-proof 
-* Exemplo simples de prova formal
+// deixar claro o porque isso é hack-proof 
+
+// Exemplo simples de prova formal
 
 Mas você se pergunta, e por que os programadores não utilizam de formal proofs?
 Pelo simples fato de que, realizar formal proofs nas blockchains atuais é muito caro e inviável.

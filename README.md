@@ -30,7 +30,7 @@ O atacante usou esses colaterais para pegar "emprestado" cerca de 200 mil BNBs, 
 E esses são só 3 dos variados roubos que acontecem quase toda semana. De acordo com o site “Web3 Is Going Great” e “rekt.news” de 2020 até a atualidade foram perdidos cerca de 11 bilhões de dolares em cripto. A maioria desses roubos, são frutos de bugs e contratos mal escritos. Mesmo que todos tenham sido auditados, auditores, por limitação humana, são incapazes de provar para todas vertentes de um ataque. No entanto, há uma forma de garantir que a auditagem seja perfeita, com Formal proofs.
 
 
-## Formal Proofs
+## Formal Proofs (Solução)
 Provas formais/Provas matemáticas
 São demonstrações de que, dados certos axiomas, algum enunciado de interesse é necessariamente verdadeiro. Utiliza como base premissas intrínsecas a um modelo conceitual e um silogismo que, a partir de uma série de operações, chega ao resultado. 
 

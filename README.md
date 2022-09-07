@@ -8,11 +8,11 @@ e isso continua seguindo.
 
 Nos anos de 2021 até julho de 2022, foram roubados mais de 4 bilhões de dolares em crypto, advindos de problemas com smart contracts e afins.
 
-### Função Kill
+### Função Kill (Problema 1)
 No dia 06 de novembro de 2017, um usuário do github chamado de "devops199" descobriu um bug na rede ethereum, que fazia com que ele pudesse "destruir" contratos multisig que não era de propriedade dele. nesse "acidente" (assim como afirmado por ele), foram perdido mais de 300 milhões de dolares em ETH
 
 
-### Poly Network exploit
+### Poly Network exploit (Problema 2)
 Porem, essa não foi nem de perto a maior das perdas.
 Em agosto de 2021, A Poly network sofreu um exploit em seu contrato proxy em 3 chains diferentes:
 Ethereum, Binance Smart Chain (BSC) e Polygon.
@@ -20,7 +20,7 @@ Por Poly Network ser um projeto cross-chain, ela possui um contrato protegido qu
 Nesse exploit, foram roubados mais de 611 milhões de dolares em diversas criptomoedas.
 
 
-### Qubit Finance bug lógico
+### Qubit Finance bug lógico (Problema 3)
 Em outro caso similar, temos a Qubit.
 Qubit Finance é também, um projeto cross-chain, que permite colateralização entre chains, no caso, Ethereum x BSC, através de uma função de deposito chamada "QBridge". Em Janeiro de 2022, um usuário se aproveitou de um bug lógico no código da função, que permitiu com que o usuário tivesse acesso a mais de 77,162 qXETH, para usar como colateral em um emprestimo na Qubit.
 O atacante usou esses colaterais para pegar "emprestado" cerca de 200 mil BNBs, o que, na época, equivaleria a 80 milhões de dólares.

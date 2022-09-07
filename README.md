@@ -45,8 +45,6 @@ mas não para a Kindelia
 
 # Kindelia
 até o dia de hoje, ser roubado era inevitável, com a Kindelia, isso se tornou uma opção.
-e então eu decidi criar a Kindelia.
 
 
-Na Kindelia, esses tipos de roubos seriam resolvidos da seguinte forma:
-// TO-DO
+// TO-DO (não consigo pensar mais no que por pra aqui)

@@ -42,9 +42,3 @@ Mas você se pergunta, e por que os programadores não utilizam de formal proofs
 Pelo simples fato de que, realizar formal proofs nas blockchains atuais é muito caro e inviável.
 Se para provar formalmente um "hello world" custa 2000 dolares, o custo de uma verificação formal de um codigo de 1400 linhas, como a qBridge da qubit, teria um preço extremamente inviável, que chama diversas funções que não são provadas. 
 mas não para a Kindelia
-
-# Kindelia
-até o dia de hoje, ser roubado era inevitável, com a Kindelia, isso se tornou uma opção.
-
-
-// TO-DO (não consigo pensar mais no que por pra aqui)
